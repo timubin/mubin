@@ -1,0 +1,44 @@
+
+.header{
+    height: 100vh;
+
+}
+
+.myColor{
+    /* color:#dc3545 ; 
+   color:hsl(120,100%,50%); */
+
+  background: -webkit-linear-gradient(#1C99FE, #FD4766);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  z-index: 999;
+
+
+/*   background: linear-gradient(120deg, #1C99FE 20.69%, #7644FF 50.19%, #FD4766 79.69%);
+    -webkit-background-clip: text; */
+}
+
+.font-size-24{
+    font-size: 24px;
+    color: #7a7a7a;
+}
+
+.btn-color{
+    padding: 10px 15px;
+    background-color: #dc3545;
+    color: #fff;
+}
+
+.cover{
+  width: 700px;
+  padding: 500px;
+}
+
+@media screen and (max-width: 634px) {
+	.portfolio-body{
+		flex-direction: column;
+	}
+	.portfolio{
+		width: 100%;
+	}
+}
