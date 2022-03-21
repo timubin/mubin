@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/mubin/static/css/main.a3fc274b.css",
+    "main.js": "/mubin/static/js/main.90830096.js",
+    "static/js/415.fb8472fd.chunk.js": "/mubin/static/js/415.fb8472fd.chunk.js",
+    "static/js/787.016dd43c.chunk.js": "/mubin/static/js/787.016dd43c.chunk.js",
+    "static/media/restaurant.png": "/mubin/static/media/restaurant.0f6a1b14e0e9103f09ef.png",
+    "static/media/beautycare.png": "/mubin/static/media/beautycare.6dfa578247057806a69b.png",
+    "static/media/company.png": "/mubin/static/media/company.b2a07d4f95b31f9879ec.png",
+    "static/media/travel.png": "/mubin/static/media/travel.6e05bb71676d3c22d498.png",
+    "static/media/realestate.png": "/mubin/static/media/realestate.21a6e1ec227ad71cb9d1.png",
+    "static/media/laravel.png": "/mubin/static/media/laravel.ec7c6de972724465600a.png",
+    "static/media/school.png": "/mubin/static/media/school.31f0d1d0e536583a9eac.png",
+    "static/media/elearning.png": "/mubin/static/media/elearning.5211e8b76fffd2d13193.png",
+    "static/media/face111.jpg": "/mubin/static/media/face111.80a00e7367199ca167b3.jpg",
+    "static/media/header.png": "/mubin/static/media/header.05a6fe0eb7369020d0ab.png",
+    "static/media/solution.png": "/mubin/static/media/solution.360fc21225c8d0ad0b81.png",
+    "static/media/web.png": "/mubin/static/media/web.2fe2d750f14f6f138b4d.png",
+    "static/media/investment.png": "/mubin/static/media/investment.e6553ac044fbedd8d575.png",
+    "static/media/shop.png": "/mubin/static/media/shop.d19388cd86fa18401902.png",
+    "static/media/shopping.png": "/mubin/static/media/shopping.1371c67c138839d73264.png",
+    "index.html": "/mubin/index.html",
+    "main.a3fc274b.css.map": "/mubin/static/css/main.a3fc274b.css.map",
+    "main.90830096.js.map": "/mubin/static/js/main.90830096.js.map",
+    "415.fb8472fd.chunk.js.map": "/mubin/static/js/415.fb8472fd.chunk.js.map",
+    "787.016dd43c.chunk.js.map": "/mubin/static/js/787.016dd43c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a3fc274b.css",
+    "static/js/main.90830096.js"
+  ]
+}
