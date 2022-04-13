@@ -12,10 +12,10 @@ const Contact = () => {
             <form action="https://formsubmit.co/kaium8458@gmail.com" method="post">
                 <div class="md:flex items-center mt-12">
                     <div class="w-full md:w-1/2 flex flex-col">
-                        <input type="text" placeholder='Name' class="leading-none shadow  text-gray-50 p-3 focus:outline-none focus:border-blue-700 mt-4 border-0 bg-gray-800 rounded" />
+                        <input type="text" placeholder='Name' required class="leading-none shadow  text-gray-50 p-3 focus:outline-none focus:border-blue-700 mt-4 border-0 bg-gray-800 rounded" />
                     </div>
                     <div class="w-full md:w-1/2 flex flex-col md:ml-6 md:mt-0 mt-4">
-                        <input type="email" placeholder='Email' class="leading-none  shadow text-gray-50 p-3 focus:outline-none focus:border-blue-700 mt-4 border-0 bg-gray-800 rounded"/>
+                        <input type="email" placeholder='Email' required class="leading-none  shadow text-gray-50 p-3 focus:outline-none focus:border-blue-700 mt-4 border-0 bg-gray-800 rounded"/>
                     </div>
                 </div>
                 <div class="md:flex items-center mt-8">
@@ -26,7 +26,7 @@ const Contact = () => {
                 </div>
                 <div>
                     <div class="w-full flex flex-col mt-8">
-                        <textarea type="text" placeholder='Message' class="h-40 text-base shadow  leading-none text-gray-50 p-3 focus:outline-none focus:border-blue-700 mt-4 bg-gray-800 border-0 rounded"></textarea>
+                        <textarea type="text" placeholder='Message' required class="h-40 text-base shadow  leading-none text-gray-50 p-3 focus:outline-none focus:border-blue-700 mt-4 bg-gray-800 border-0 rounded"></textarea>
                     </div>
                 </div>
                 <div class="flex items-center justify-center w-full mt-5">
