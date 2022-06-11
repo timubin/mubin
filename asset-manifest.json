@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/mubin/static/css/main.fa89b5cf.css",
-    "main.js": "/mubin/static/js/main.21bfdfdf.js",
+    "main.css": "/mubin/static/css/main.8e4800d8.css",
+    "main.js": "/mubin/static/js/main.7babecdc.js",
     "static/js/415.78a7ec11.chunk.js": "/mubin/static/js/415.78a7ec11.chunk.js",
     "static/js/787.28cb0dcd.chunk.js": "/mubin/static/js/787.28cb0dcd.chunk.js",
     "static/media/restaurant.png": "/mubin/static/media/restaurant.943decfea54aff2154cd.png",
     "static/media/beautycare.png": "/mubin/static/media/beautycare.f02db6dcd5dd85012dc9.png",
     "static/media/Byfaux.png": "/mubin/static/media/Byfaux.8cbc6a8e0ccb5159b57d.png",
     "static/media/Cuda.png": "/mubin/static/media/Cuda.1d31c82813b5d4d8f53f.png",
+    "static/media/Euroisaholding.png": "/mubin/static/media/Euroisaholding.3b1c7d9cc52d0fe20b60.png",
     "static/media/company.png": "/mubin/static/media/company.9f3074c949328d05da23.png",
     "static/media/realestate.png": "/mubin/static/media/realestate.ed99895515e332fa06df.png",
     "static/media/Salem.png": "/mubin/static/media/Salem.6a2cd22dd1dc1f832ac5.png",
@@ -15,6 +16,7 @@
     "static/media/Nomadcapitalist.png": "/mubin/static/media/Nomadcapitalist.0b873b22eb357810708c.png",
     "static/media/laravel.png": "/mubin/static/media/laravel.1192a1e12e7b1dab67fd.png",
     "static/media/Finix.png": "/mubin/static/media/Finix.8716a4c3c438e44d1ce4.png",
+    "static/media/eurosiainfo.png": "/mubin/static/media/eurosiainfo.0a5c45deef9f14ff66cf.png",
     "static/media/face111.jpg": "/mubin/static/media/face111.80a00e7367199ca167b3.jpg",
     "static/media/news.png": "/mubin/static/media/news.1d8946a2b874b251b433.png",
     "static/media/astha.png": "/mubin/static/media/astha.81039ae6231be7201bdb.png",
@@ -25,21 +27,24 @@
     "static/media/elearning.png": "/mubin/static/media/elearning.55f7d014ddde65a89a36.png",
     "static/media/rosehan.png": "/mubin/static/media/rosehan.89c0e1126e206896e14e.png",
     "static/media/school.png": "/mubin/static/media/school.1c82d1432a8804f66830.png",
+    "static/media/Eurosiaapp.png": "/mubin/static/media/Eurosiaapp.4f0b246892ba9a1dad08.png",
+    "static/media/Tecnologies.png": "/mubin/static/media/Tecnologies.b7457b63cd107631b4b7.png",
     "static/media/facebook.png": "/mubin/static/media/facebook.da920a37bc15a4a5f67c.png",
     "static/media/solution.png": "/mubin/static/media/solution.360fc21225c8d0ad0b81.png",
     "static/media/web.png": "/mubin/static/media/web.2fe2d750f14f6f138b4d.png",
     "static/media/investment.png": "/mubin/static/media/investment.e6553ac044fbedd8d575.png",
+    "static/media/cpi.png": "/mubin/static/media/cpi.e9f986b6a7c146262ec2.png",
     "static/media/Todoapp.png": "/mubin/static/media/Todoapp.7904134cca98058dea7a.png",
     "static/media/shop.png": "/mubin/static/media/shop.d19388cd86fa18401902.png",
     "static/media/shopping.png": "/mubin/static/media/shopping.1371c67c138839d73264.png",
     "index.html": "/mubin/index.html",
-    "main.fa89b5cf.css.map": "/mubin/static/css/main.fa89b5cf.css.map",
-    "main.21bfdfdf.js.map": "/mubin/static/js/main.21bfdfdf.js.map",
+    "main.8e4800d8.css.map": "/mubin/static/css/main.8e4800d8.css.map",
+    "main.7babecdc.js.map": "/mubin/static/js/main.7babecdc.js.map",
     "415.78a7ec11.chunk.js.map": "/mubin/static/js/415.78a7ec11.chunk.js.map",
     "787.28cb0dcd.chunk.js.map": "/mubin/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fa89b5cf.css",
-    "static/js/main.21bfdfdf.js"
+    "static/css/main.8e4800d8.css",
+    "static/js/main.7babecdc.js"
   ]
 }
