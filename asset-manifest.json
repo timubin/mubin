@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/mubin/static/css/main.8e4800d8.css",
-    "main.js": "/mubin/static/js/main.7babecdc.js",
+    "main.css": "/mubin/static/css/main.c3cd20b2.css",
+    "main.js": "/mubin/static/js/main.51e5b512.js",
     "static/js/415.78a7ec11.chunk.js": "/mubin/static/js/415.78a7ec11.chunk.js",
     "static/js/787.28cb0dcd.chunk.js": "/mubin/static/js/787.28cb0dcd.chunk.js",
     "static/media/restaurant.png": "/mubin/static/media/restaurant.943decfea54aff2154cd.png",
@@ -38,13 +38,13 @@
     "static/media/shop.png": "/mubin/static/media/shop.d19388cd86fa18401902.png",
     "static/media/shopping.png": "/mubin/static/media/shopping.1371c67c138839d73264.png",
     "index.html": "/mubin/index.html",
-    "main.8e4800d8.css.map": "/mubin/static/css/main.8e4800d8.css.map",
-    "main.7babecdc.js.map": "/mubin/static/js/main.7babecdc.js.map",
+    "main.c3cd20b2.css.map": "/mubin/static/css/main.c3cd20b2.css.map",
+    "main.51e5b512.js.map": "/mubin/static/js/main.51e5b512.js.map",
     "415.78a7ec11.chunk.js.map": "/mubin/static/js/415.78a7ec11.chunk.js.map",
     "787.28cb0dcd.chunk.js.map": "/mubin/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8e4800d8.css",
-    "static/js/main.7babecdc.js"
+    "static/css/main.c3cd20b2.css",
+    "static/js/main.51e5b512.js"
   ]
 }
